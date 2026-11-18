@@ -697,6 +697,11 @@ section,
   background-color: var(--accent-color);
 }
 
+.skills .content h2 {
+  font-weight: 700;
+  font-size: 24px;
+}
+
 /*--------------------------------------------------------------
 # Resume Section
 --------------------------------------------------------------*/
